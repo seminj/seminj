@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=For%20Java%20Dev!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=D8BFD8) -->
             
 </div>            
-            
+         
+         
+         
 <h3 align="center">👋 Hi there!</h3>
 <p align="center"> I'm studying for Data Analysist. with Python 💻<br />
 I'm still a beginner. So, I will continue to work hard to achieve my goal 🌈<br />
