@@ -21,6 +21,7 @@ Here are some ideas to get you started:
          
          
          
+
 <h3 align="center">👋 Hi there!</h3>
 <p align="center"> I'm studying for Data Analysist. with Python 💻<br />
 I'm still a beginner. So, I will continue to work hard to achieve my goal 🌈<br />
