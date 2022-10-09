@@ -32,11 +32,12 @@ Let's do that 🔥
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/se_m.ni-E4405F?style=flat-square&logo=Instagram&logoColor=white"/><a href="https://www.instagram.com/se_m.ni"></a>
-
-<a href="https://www.instagram.com/se_m.ni" target="_blank"><img src="https://img.shields.io/badge/se_m.ni-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-
-<a href="https://seminj.tistory.com/category" target="_blank"><img src="https://comeinsidebox.com/wp-content/uploads/2021/07/TISTORY-%EB%A1%9C%EA%B3%A0-1.png" width="200" height="100"></a>
+<img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a> &nbsp
+<a href="https://www.instagram.com/se_m.ni" target="_blank">
+            <img src="https://img.shields.io/badge/se_m.ni-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+<a href="https://seminj.tistory.com/category" target="_blank">
+            <img src="https://comeinsidebox.com/wp-content/uploads/2021/07/TISTORY-%EB%A1%9C%EA%B3%A0-1.png" width="200" height="100"></a>
 </p><br />
 
 
