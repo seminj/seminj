@@ -1,6 +1,5 @@
 ### 👋 반갑습니다!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jsminbox@gmail.com)
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=blogger&logoColor=white&link=https://seminj.tistory.com/)](https://seminj.tistory.com/) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white&link=https://seminj.github.com)](https://seminj.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se_m.ni/)](https://www.instagram.com/se_m.ni/)
