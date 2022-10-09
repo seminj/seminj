@@ -31,7 +31,6 @@ Let's do that 🔥
 <h3 align="center">💻 Connect Me 💻</h3>
 <p align="center">
 <a href="https://www.instagram.com/se_m.ni" target="_blank"><img src="https://img.shields.io/badge/se_m.ni-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-<a href="mailto:semin_jung@naver.com" target="_blank"><img src="https://img.shields.io/badge/semin_jung@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br />
 <a href="https://seminj.tistory.com/category" target="_blank"><img src="https://comeinsidebox.com/wp-content/uploads/2021/07/TISTORY-%EB%A1%9C%EA%B3%A0-1.png" width="200" height="100"></a>
 </p><br />
 
