@@ -12,7 +12,7 @@
 **언어 및 도구**  
 
 ![Python](https://img.shields.io/badge/python-darkblue?style=flat-square&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%E97627.svg?style=flat-square&logo=Tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%7935D2.svg?style=flat-square&logo=Tableau&logoColor=white)<br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
