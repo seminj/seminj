@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se_m.ni/)](https://www.instagram.com/se_m.ni/)
 
-
+<!-- -->
 * 💻 아직 배울게 많은 주니어 데이터 분석가입니다.
 * ⚡ 고객 데이터 가공 및 분석에 관심이 많습니다. 
 * 🌈 주어진 기회에 충실히 임하기 위해 열심히 노력중입니다.
