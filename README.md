@@ -1,8 +1,8 @@
 ### 👋 반갑습니다!
 
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=blogger&logoColor=white&link=https://seminj.tistory.com/)](https://seminj.tistory.com/) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=blogger&logoColor=white&link=https://seminj.tistory.com/)](https://seminj.tistory.com/)  target="_blank"
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white&link=https://seminj.github.com)](https://seminj.github.io)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se_m.ni/)](https://www.instagram.com/se_m.ni/)
 
 
