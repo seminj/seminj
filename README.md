@@ -1,9 +1,9 @@
 ### 👋 반갑습니다!
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=blogger&logoColor=white&link=https://seminj.tistory.com/)](https://seminj.tistory.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white&link=https://seminj.github.com)](https://seminj.github.io)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white&link=https://seminj.github.com target="_blank")](https://seminj.github.io)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se_m.ni/)](https://www.instagram.com/se_m.ni/ target="_blank")
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se_m.ni/)](https://www.instagram.com/se_m.ni/)
 
 
 * 💻 아직 배울게 많은 주니어 데이터 분석가입니다.
