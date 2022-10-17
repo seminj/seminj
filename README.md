@@ -43,7 +43,6 @@
  
   <details><!--summary>[주요역할]</summary-->
   <div markdown="1">
-  Paper<link = "www.naver.com">
   
 
   </details>
