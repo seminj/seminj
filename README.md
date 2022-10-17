@@ -24,10 +24,11 @@
 
 ## 💼 프로젝트 수행이력
 - 2021 한국정보기술학회(KIT) 추계 대학생 논문경진대회 (우수논문상) <br>
-  제목 : 「품사에 따른 영화 리뷰 감성분석 연구」 <br>
-1. selenium : 셀레니움과 requests 패키지를 이용한 커스텀 크롤러 제작.
-2. 
-
+제목 : [「품사에 따른 영화 리뷰 감성분석 연구」](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/2021%20A%20Study%20on%20the%20Effect%20of%20the%20Part%20of%20Speech%20on%20Movie%20Review%20Sentiment%20Classification%20Performance.pdf) <br>
+1. selenium과 requests 패키지를 이용한 커스텀 크롤러 제작(7만 5천 데이터).
+2. 자연어 처리 패키지(Konlpy)로 전처리 및 문서단어행렬 생성
+3. 감성 예측 모델 구축 및 검증 <br>
+	
 
 <!--
 1. 마케팅 전략 제안 및 실행 <br>
@@ -42,8 +43,8 @@
  
   <details><!--summary>[주요역할]</summary-->
   <div markdown="1">
-
-  주요역할
+  Paper<link = "www.naver.com">
+  
 
   </details>
 
@@ -53,7 +54,7 @@
   제목 : 「VGG-16 모형 및 CAM 기법을 이용한 개의 피부병 이미지 분류 및 관심영역 도출」
   
 - 2018 한국스마트미디어학회 & 한국전자거래학회 2018년도 춘계학술대회 <br>
-  제목 : 「데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구」
+  제목 : [「데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구」](https://github.com/seminj/An-Exploratory-Study-of-the-Demanding-Trends-of-Programming-Languages-for-Data-Analysis/blob/main/An-Exploratory-Study-of-the-Demanding-Trends-of-Programming-Languages-for-Data-Analysis.pdf)
   
   
   
