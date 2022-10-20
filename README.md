@@ -23,8 +23,9 @@
 
 ## 💼 프로젝트 수행이력
 
-- **2021 한국정보기술학회(KIT) 추계 대학생 논문경진대회 (우수논문상)** | [상세보기](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/README.md) <br>
+- **2021 한국정보기술학회(KIT) 추계 대학생 논문경진대회 (우수논문상)** | [상세보기](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/README.md){: target="_blank"} <br>
 제목 : [「품사에 따른 영화 리뷰 감성분석 연구」](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/2021%20A%20Study%20on%20the%20Effect%20of%20the%20Part%20of%20Speech%20on%20Movie%20Review%20Sentiment%20Classification%20Performance.pdf) <br>
+<a href="http://example.com/" target="_blank">example</a>
 
 - 2021 학부 연구보조원으로 추천시스템 연구 프로젝트에 참여 | [상세보기]()
 - 2021 학부 연구생 추천 시스템 구축 및 텍스트 마이닝 프로젝트 진행
