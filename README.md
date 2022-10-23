@@ -24,20 +24,20 @@
 ## 💼 프로젝트 수행이력
 
 - **2021 한국정보기술학회(KIT) 추계 대학생 논문경진대회 (우수논문상)** | [상세보기](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/README.md) <br>
-제목 : [「품사에 따른 영화 리뷰 감성분석 연구」](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/2021%20A%20Study%20on%20the%20Effect%20of%20the%20Part%20of%20Speech%20on%20Movie%20Review%20Sentiment%20Classification%20Performance.pdf) <br>
+제목 : [「품사에 따른 영화 리뷰 감성분석 연구」](https://seminj.github.io/files/2021_paper.pdf) <br>
 
 - 2021 학부 연구보조원으로 추천시스템 연구 프로젝트에 참여 | [상세보기]()
 - 2021 학부 연구생 추천 시스템 구축 및 텍스트 마이닝 프로젝트 진행
 
 - **2020 한국데이터정보과학회 추계학술대회 (포스터논문발표 최우수상)** | [상세보기]() <br>
-  제목 : [「VGG-16 모형 및 CAM 기법을 이용한 개의 피부병 이미지 분류 및 관심영역 도출」]()
+  제목 : [「VGG-16 모형 및 CAM 기법을 이용한 개의 피부병 이미지 분류 및 관심영역 도출」](https://seminj.github.io/files/2020_paper.pdf) | [포스터](https://seminj.github.io/files/2020_poster.pdf)
   
 - 2020 서울특별시 빅데이터 캠퍼스 사이트 내 서울시민 카드소비 분석 경진대회 | [상세보기]()
   
 - 2020 open API 아파트 매매 크롤링 및 DB 설계 
 
 - **2018 한국스마트미디어학회 & 한국전자거래학회 춘계학술대회** | [상세보기]() <br>
-  제목 : [「데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구」](https://github.com/seminj/An-Exploratory-Study-of-the-Demanding-Trends-of-Programming-Languages-for-Data-Analysis/blob/main/An-Exploratory-Study-of-the-Demanding-Trends-of-Programming-Languages-for-Data-Analysis.pdf)
+  제목 : [「데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구」](https://seminj.github.io/files/2018_paper.pdf)
 
 - 2018 교내 3회 데이터 분석 경진대회 장려상 <br>
 - 2018 프로젝트형 동아리 진행 | python크롤링을 통한 Tripadvisor 텍스트 분석 | [상세보기]()
