@@ -22,7 +22,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 
 
-## 💼 학술논문 이력
+## 📃 학술논문 이력
 
 - 2021 **한국정보기술학회(KIT) 추계 대학생 논문경진대회 (우수논문상)** | [상세보기](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/README.md) <br>
 제목 : [「품사에 따른 영화 리뷰 감성분석 연구」](https://seminj.github.io/files/2021_paper.pdf) <br>
@@ -33,32 +33,10 @@
 - 2018 **한국스마트미디어학회 & 한국전자거래학회 춘계학술대회** | [상세보기]() <br>
   제목 : [「데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구」](https://seminj.github.io/files/2018_paper.pdf)
 
----
-## 💼 학술논문 이력
-|연도|제목|기관|수상|상세보기|
-|:---:|:---|:---:|:---:|:---:|
-2021 | [품사에 따른 영화 리뷰 감성분석 연구](https://seminj.github.io/files/2021_paper.pdf) | 한국정보기술학회(KIT) | 우수논문상 | [상세보기](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/README.md) <br>
-2020 | [VGG-16 모형 및 CAM 기법을 이용한 개의 피부병 이미지 분류 및 관심영역 도출](https://seminj.github.io/files/2020_paper.pdf) | 한국데이터정보과학회 | [포스터](https://seminj.github.io/files/2020_poster.pdf) 최우수상 | [상세보기]() <br>
-2018 | [데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구](https://seminj.github.io/files/2018_paper.pdf) | 한국스마트미디어학회 & 한국전자거래학회 || [상세보기]() <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 ## 💼 프로젝트 수행이력
 
 |내용|기간|주요 역할|
-|:---|:---:|:---:|
+|---|---|---|
 2021 학부 연구보조원으로 추천시스템 연구 프로젝트 | *2020.12 ~ 2021.3* | [상세보기]() |  <br>
 2021 학부 연구생 추천 시스템 구축 및 텍스트 마이닝 프로젝트 | *2020.12 ~ 2021.3* | [상세보기]() | <br>
 2020 서울특별시 빅데이터 캠퍼스 사이트 내 서울시민 카드소비 분석 경진대회 | *2020.12 ~ 2021.3* | [상세보기]() | 
@@ -75,7 +53,6 @@
 - 2018 국외봉사 베트남 호앙사초등학교 1개월
 
 ## 
-
 
 
 <!--
