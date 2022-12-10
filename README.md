@@ -1,9 +1,11 @@
 ## 👋 안녕하세요! 정세민입니다.
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=blogger&logoColor=white&link=https://seminj.tistory.com/)](https://seminj.tistory.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white&link=https://seminj.github.com)](https://seminj.github.io)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=Github&logoColor=white&link=https://seminj.github.com)](https://seminj.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se_m.ni/)](https://www.instagram.com/se_m.ni/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)<br>
+[![mail](https://img.shields.io/badge/Mail-%23009639.svg?style=flat-square&logo=nginx&logoColor=white&link=semin_jung@naver.com)](semin_jung@naver.com)
+[![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat-square&logo=kakaotalk&logoColor=000000&link=http://open.kakao.com/o/sTKJeMCe)](http://open.kakao.com/o/sTKJeMCe)
 
 * 💻 아직 배울게 많은 주니어 데이터 분석가입니다.
 * ⚡ 고객 데이터 가공 및 분석에 관심이 많습니다. 
