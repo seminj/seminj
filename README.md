@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=Github&logoColor=white&link=https://seminj.github.com)](https://seminj.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se_m.ni/)](https://www.instagram.com/se_m.ni/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)<br>
-[![mail](https://img.shields.io/badge/Mail-%23009639.svg?style=flat-square&logo=nginx&logoColor=white&link=semin_jung@naver.com)](semin_jung@naver.com)
+[![mail](https://img.shields.io/badge/semin_jung@naver.com-%23009639.svg?style=flat-square&logo=nginx&logoColor=white&link=semin_jung@naver.com)](semin_jung@naver.com)
 [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat-square&logo=kakaotalk&logoColor=000000&link=http://open.kakao.com/o/sTKJeMCe)](http://open.kakao.com/o/sTKJeMCe)
 
 * 💻 아직 배울게 많은 주니어 데이터 분석가입니다.
@@ -39,14 +39,14 @@
 
 |내용|기간|주요 역할|
 |---|---|---|
-2021 학부 연구보조원으로 추천시스템 연구 프로젝트 | *2020.12 ~ 2021.03* | [상세보기]() |  <br>
-2021 학부 연구생 추천 시스템 구축 및 텍스트 마이닝 프로젝트 | *2020.12 ~ 2021.03* | [상세보기]() | <br>
-2020 서울특별시 빅데이터 캠퍼스 사이트 내 서울시민 카드소비 분석 경진대회 | *2020.09 ~ 2020.11* | [상세보기]() | 
-2020 open API 아파트 매매 크롤링 및 DB 설계 | *2020.10 ~ 2020.11* | [상세보기]() <br>
-2018 교내 3회 데이터 분석 경진대회 장려상 | *2018.10 ~ 2018.11* | [상세보기]() | <br>
-2018 Python크롤링을 통한 Tripadvisor 제주도 텍스트 분석 | *2018.10 ~ 2018.12* | [상세보기]() <br>
-2017 교내 1회 데이터 분석 경진대회 우수상 | *2017.04 ~ 2017.05* | [상세보기]() <br>
-2017 재무분석가 예측 데이터 수집, 코스피 상위 100개 기업 데이터 수집 | *2017.04 ~ 2021.07* | [상세보기]() <br>
+학부 연구보조원 추천시스템 연구 프로젝트 | *2020.12 ~ 2021.03* | [상세보기]() |  <br>
+학부 연구생 추천 시스템 구축 및 텍스트 마이닝 프로젝트 | *2020.12 ~ 2021.03* | [상세보기]() | <br>
+서울특별시 빅데이터 캠퍼스 사이트 내 서울시민 카드소비 분석 경진대회 | *2020.09 ~ 2020.11* | [상세보기]() | 
+open API 아파트 매매 크롤링 및 DB 설계 | *2020.10 ~ 2020.11* | [상세보기]() <br>
+교내 3회 데이터 분석 경진대회 장려상 | *2018.10 ~ 2018.11* | [상세보기]() | <br>
+Python크롤링을 통한 Tripadvisor 제주도 텍스트 분석 | *2018.10 ~ 2018.12* | [상세보기]() <br>
+교내 1회 데이터 분석 경진대회 우수상 | *2017.04 ~ 2017.05* | [상세보기]() <br>
+재무분석가 예측 데이터 수집, 코스피 상위 100개 기업 데이터 수집 | *2017.04 ~ 2021.07* | [상세보기]() <br>
 
 
 ## 📌 기타 활동
