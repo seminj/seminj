@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)<br>
 [![mail](https://img.shields.io/badge/seminpy@naver.com-%23009639.svg?style=flat-square&logo=nginx&logoColor=white&link=seminpy@naver.com)](seminpy@naver.com)
 [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat-square&logo=kakaotalk&logoColor=000000&link=http://open.kakao.com/o/sTKJeMCe)](http://open.kakao.com/o/sTKJeMCe)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=semin)](https://solved.ac/semin)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=seminj)](https://solved.ac/seminj)
 
 * 💻 아직 배울게 많은 주니어 데이터 분석가입니다.
 * ⚡ 고객 데이터 가공 및 분석에 관심이 많습니다. 
