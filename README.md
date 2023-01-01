@@ -27,27 +27,34 @@
 
 ## 📃 학술논문 이력
 
-- 2021 **한국정보기술학회(KIT) 추계 대학생 논문경진대회 (우수논문상)** | [상세보기](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/README.md) <br>
-제목 : [「품사에 따른 영화 리뷰 감성분석 연구」](https://seminj.github.io/files/2021_paper.pdf) <br>
+- [**품사에 따른 영화 리뷰 감성분석 연구**](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/README.md)
+  - 2021 한국정보기술학회(KIT) - 우수논문상
+  - [논문보기](https://seminj.github.io/files/2021_paper.pdf)
 
-- 2020 **한국데이터정보과학회 추계학술대회 (포스터논문발표 최우수상)** | [상세보기]() <br>
-  제목 : [「VGG-16 모형 및 CAM 기법을 이용한 개의 피부병 이미지 분류 및 관심영역 도출」](https://seminj.github.io/files/2020_paper.pdf) | [포스터](https://seminj.github.io/files/2020_poster.pdf)
-  
-- 2018 **한국스마트미디어학회 & 한국전자거래학회 춘계학술대회** | [상세보기]() <br>
-  제목 : [「데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구」](https://seminj.github.io/files/2018_paper.pdf)
+
+- [**VGG-16 모형 및 CAM 기법을 이용한 개의 피부병 이미지 분류 및 관심영역 도출**](https://github.com/seminj/Classification-of-Dogs-Skin-Disease-Images-and-Extracting-Region-of-Interest-Using-VGG-16-Models-and)
+  - 2020 한국데이터정보과학회 - 포스터 최우수상
+  - [논문보기](https://seminj.github.io/files/2020_paper.pdf) |  [포스터보기]()
+
+
+- [**데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구**](https://github.com/seminj/An-Exploratory-Study-of-the-Demanding-Trends-of-Programming-Languages-for-Data-Analysis)
+  - 2018 한국스마트미디어학회 & 한국전자거래학회
+  - [논문보기](https://seminj.github.io/files/2018_paper.pdf)
+
+
 
 ## 💼 프로젝트 수행이력
 
 |내용|기간|주요 역할|
 |---|---|---|
-학부 연구보조원 추천시스템 연구 프로젝트 | *2020.12 ~ 2021.03* | [상세보기]() |  <br>
-학부 연구생 추천 시스템 구축 및 텍스트 마이닝 프로젝트 | *2020.12 ~ 2021.03* | [상세보기]() | <br>
-open API 아파트 매매 크롤링 및 DB 설계 | *2020.10 ~ 2020.11* | [상세보기]() <br>
-서울특별시 빅데이터 캠퍼스 사이트 내 서울시민 카드소비 분석 경진대회 | *2020.09 ~ 2020.11* | [상세보기]() | 
-Python크롤링을 통한 Tripadvisor 제주도 텍스트 분석 | *2018.10 ~ 2018.12* | [상세보기]() <br>
-교내 3회 데이터 분석 경진대회 장려상 | *2018.10 ~ 2018.11* | [상세보기]() | <br>
-재무분석가 예측 데이터 수집, 코스피 상위 100개 기업 데이터 수집 | *2017.04 ~ 2017.07* | [상세보기]() <br>
-교내 1회 데이터 분석 경진대회 우수상 | *2017.04 ~ 2017.05* | [상세보기]() <br>
+학부 연구보조원 추천시스템 연구 프로젝트 | *2020.12 ~ 2021.03* | [자세히보기]() |  <br>
+학부 연구생 추천 시스템 구축 및 텍스트 마이닝 프로젝트 | *2020.12 ~ 2021.03* | [자세히보기]() | <br>
+open API 아파트 매매 크롤링 및 DB 설계 | *2020.10 ~ 2020.11* | [자세히보기]() <br>
+서울특별시 빅데이터 캠퍼스 사이트 내 서울시민 카드소비 분석 경진대회 | *2020.09 ~ 2020.11* | [자세히보기]() | 
+Python크롤링을 통한 Tripadvisor 제주도 텍스트 분석 | *2018.10 ~ 2018.12* | [자세히보기]() <br>
+교내 3회 데이터 분석 경진대회 장려상 | *2018.10 ~ 2018.11* | [자세히보기]() | <br>
+재무분석가 예측 데이터 수집, 코스피 상위 100개 기업 데이터 수집 | *2017.04 ~ 2017.07* | [자세히보기]() <br>
+교내 1회 데이터 분석 경진대회 우수상 | *2017.04 ~ 2017.05* | [자세히보기]() <br>
 
 
 
