@@ -27,17 +27,17 @@
 
 ## 📃 학술논문 이력
 
-- [**품사에 따른 영화 리뷰 감성분석 연구**](https://github.com/seminj/A-Study-on-the-Effect-of-the-Part-of-Speech-on-Movie-Review-Sentiment-Classification-Performance/blob/main/README.md)
+- [**품사에 따른 영화 리뷰 감성분석 연구**](https://github.com/seminj/2021_paper_Movie_Review_Sentiment_Classification)
   - 2021 한국정보기술학회(KIT) - 우수논문상
   - [논문보기](https://seminj.github.io/files/2021_paper.pdf)
 
 
-- [**VGG-16 모형 및 CAM 기법을 이용한 개의 피부병 이미지 분류 및 관심영역 도출**](https://github.com/seminj/Classification-of-Dogs-Skin-Disease-Images-and-Extracting-Region-of-Interest-Using-VGG-16-Models-and)
+- [**VGG-16 모형 및 CAM 기법을 이용한 개의 피부병 이미지 분류 및 관심영역 도출**](https://github.com/seminj/2020_paper_Classification_of_Dogs_Skin_Disease_Images)
   - 2020 한국데이터정보과학회 - 포스터 최우수상
   - [논문보기](https://seminj.github.io/files/2020_paper.pdf) |  [포스터보기]()
 
 
-- [**데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구**](https://github.com/seminj/An-Exploratory-Study-of-the-Demanding-Trends-of-Programming-Languages-for-Data-Analysis)
+- [**데이터분석을 위한 프로그래밍 언어들의 수요추이에 대한 탐색적 연구**](https://github.com/seminj/2018_paper_Trends_of_Programming_Language_for_DA)
   - 2018 한국스마트미디어학회 & 한국전자거래학회
   - [논문보기](https://seminj.github.io/files/2018_paper.pdf)
 
