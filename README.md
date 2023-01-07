@@ -1,7 +1,6 @@
 ## 👋 안녕하세요! 정세민입니다.
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=blogger&logoColor=white&link=https://seminj.tistory.com/)](https://seminj.tistory.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=Github&logoColor=white&link=https://seminj.github.com)](https://seminj.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se_m.ni/)](https://www.instagram.com/se_m.ni/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)<br>
 [![mail](https://img.shields.io/badge/seminpy@naver.com-%23009639.svg?style=flat-square&logo=nginx&logoColor=white&link=seminpy@naver.com)](seminpy@naver.com)
@@ -13,17 +12,21 @@
 * 🌈 주어진 기회에 충실히 임하기 위해 열심히 노력중입니다.
 
 ## 🛠 언어 및 도구
-
-![Python](https://img.shields.io/badge/python-darkblue?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-003545.svg?style=flat-square&logo=mysql&logoColor=white)
+* ![Python](https://img.shields.io/badge/python-darkblue?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003545.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%235C2D91.svg?style=flat-square&logo=Tableau&logoColor=white)<br>
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+* ![OpenCV](https://img.shields.io/badge/Opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2357A143.svg?style=flat-square&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) 
+* ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=Github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 ## 📃 학술논문 이력
 
@@ -51,10 +54,10 @@
 학부 연구생 추천 시스템 구축 및 텍스트 마이닝 프로젝트 | *2020.12 ~ 2021.03* | [자세히보기]
 Opem API 아파트 매매 크롤링 및 DB 설계 | *2020.10 ~ 2020.11* | [자세히보기](https://github.com/seminj/Open-API-Apartment-Sales-Crawling-and-DB-ERD)
 서울시민 카드소비 분석 경진대회 | *2020.09 ~ 2020.11* | [자세히보기](https://github.com/seminj/Card-consumption-pattern-in-Seoul-analysis)
-~~Python 크롤링을 통한~~ Tripadvisor 제주도 텍스트 분석 | *2018.10 ~ 2018.12* | [자세히보기]
-~~교내 3회 데이터 분석~~ 경진대회 장려상 | *2018.10 ~ 2018.11* | [자세히보기]
+Tripadvisor 제주도 텍스트 분석 | *2018.10 ~ 2018.12* | [자세히보기]
+경진대회 장려상 | *2018.10 ~ 2018.11* | [자세히보기]
 재무분석가 예측 데이터 수집, 코스피 상위 100개 기업 데이터 수집 | *2017.04 ~ 2017.07* | [자세히보기]
-~~교내 1회 데이터 분석~~ 경진대회 우수상 | *2017.04 ~ 2017.05* | [자세히보기]
+경진대회 우수상 | *2017.04 ~ 2017.05* | [자세히보기]
 
 
 
