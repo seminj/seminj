@@ -30,7 +30,7 @@
 
 ## 📃 학술논문 이력
 
-- [**품사에 따른 영화 리뷰 감성분석 연구**](https://github.com/seminj/2021_paper_Movie_Review_Sentiment_Classification)
+- [**영화 평점과 리뷰의 감성분석을 통한 품사 조합 중요도 연구**](https://github.com/seminj/2021_paper_Movie_Review_Sentiment_Classification)
   - 2021 한국정보기술학회(KIT) - 우수논문상
 
 - [**VGG-16 모형 및 CAM 기법을 이용한 개의 피부병 이미지 분류 및 관심영역 도출**](https://github.com/seminj/2020_paper_Classification_of_Dogs_Skin_Disease_Images)
@@ -47,7 +47,7 @@
 학부 연구생 추천 시스템 구축 및 텍스트 마이닝 프로젝트 | *2020.12 ~ 2021.03* | [자세히보기]
 Open API 아파트 매매 크롤링 및 DB 설계 | *2020.10 ~ 2020.11* | [자세히보기](https://github.com/seminj/Open-API-Apartment-Sales-Crawling-and-DB-ERD)
 서울시민 카드소비 분석 경진대회 | *2020.09 ~ 2020.11* | [자세히보기](https://github.com/seminj/Card-consumption-pattern-in-Seoul-analysis)
-Tripadvisor 제주도 텍스트 분석 | *2018.10 ~ 2018.12* | [자세히보기]
+Tripadvisor 제주도 여행리뷰 추천 연구 | *2018.10 ~ 2018.12* | [자세히보기](https://github.com/seminj/Tripadvisor-NLP-in-Jeju)
 경진대회 장려상 | *2018.10 ~ 2018.11* | [자세히보기]
 재무분석가 예측 데이터 수집, 코스피 상위 100개 기업 데이터 수집 | *2017.04 ~ 2017.07* | [자세히보기]
 경진대회 우수상 | *2017.04 ~ 2017.05* | [자세히보기]
