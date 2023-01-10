@@ -2,7 +2,8 @@
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=blogger&logoColor=white&link=https://seminj.tistory.com/)](https://seminj.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se_m.ni/)](https://www.instagram.com/se_m.ni/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%EB%AF%BC-%EC%A0%95-959476233)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseminj&count_bg=%23C83D3D&title_bg=%238C8C8C&icon=sourcegraph.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 [![mail](https://img.shields.io/badge/seminpy@naver.com-%23009639.svg?style=flat-square&logo=nginx&logoColor=white&link=seminpy@naver.com)](seminpy@naver.com)
 [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat-square&logo=kakaotalk&logoColor=000000&link=http://open.kakao.com/o/sTKJeMCe)](http://open.kakao.com/o/sTKJeMCe)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=seminj)](https://solved.ac/seminj)
